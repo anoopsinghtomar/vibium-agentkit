@@ -26,3 +26,5 @@ vibium-agentkit/
 ├─ examples/          # Example use cases and demos
 ├─ configs/           # Test and agent configuration
 └─ README.md
+
+This is an independent fork/extension and is not officially affiliated with the Vibium maintainers.
